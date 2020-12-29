@@ -1,6 +1,6 @@
 <template>
   <div>
-  <svgDraw msg="Simple lightbeam visualization"/>
+  <svgDraw msg="Simple light beam visualization"/>
   </div>
 </template>
 
